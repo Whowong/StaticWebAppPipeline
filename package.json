@@ -1,0 +1,10 @@
+{
+    "name": "my-static-web-app",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.5"
+    }
+}
